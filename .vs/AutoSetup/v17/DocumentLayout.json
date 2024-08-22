@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|c:\\users\\administrator\\desktop\\coding projects\\autosetup\\autosetup\\frm_autosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|solutionrelative:autosetup\\frm_autosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\autosetup\\frm_editprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|solutionrelative:autosetup\\frm_editprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\autosetup\\frm_autosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|solutionrelative:autosetup\\frm_autosetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|c:\\users\\administrator\\desktop\\coding projects\\autosetup\\autosetup\\frm_editprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A3062501-7F01-4D67-9A80-0F59D94B5A83}|AutoSetup\\AutoSetup.csproj|solutionrelative:autosetup\\frm_editprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_EditProcess.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_EditProcess.cs",
+              "RelativeDocumentMoniker": "AutoSetup\\Frm_EditProcess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_EditProcess.cs",
+              "RelativeToolTip": "AutoSetup\\Frm_EditProcess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:10:46.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_AutoSetup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_AutoSetup.cs",
+              "RelativeDocumentMoniker": "AutoSetup\\Frm_AutoSetup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_AutoSetup.cs",
+              "RelativeToolTip": "AutoSetup\\Frm_AutoSetup.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAADgvxwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:49:51.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_EditProcess.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_EditProcess.cs",
+              "RelativeDocumentMoniker": "AutoSetup\\Frm_EditProcess.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_EditProcess.cs [Entwurf]",
+              "RelativeToolTip": "AutoSetup\\Frm_EditProcess.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:56:45.124Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_AutoSetup.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_AutoSetup.cs",
+              "RelativeDocumentMoniker": "AutoSetup\\Frm_AutoSetup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Coding Projects\\AutoSetup\\AutoSetup\\Frm_AutoSetup.cs [Entwurf]",
+              "RelativeToolTip": "AutoSetup\\Frm_AutoSetup.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T16:42:29.859Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
